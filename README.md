@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suneha Mariam</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+
 - 🌱 I’m currently learning **Full stack Developement**
+
 - 👨‍💻 All of my projects are available at [https://github.com/SunehaMariam](https://github.com/SunehaMariam)
 
 - 📫 How to reach me **sunehamariam61@gmail.com**
